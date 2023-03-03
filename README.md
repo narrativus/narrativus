@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @narrativus
-- 👀 I’m interested in Data Analytics, specially aimed at Blockchains and Web3 applications, as well as Machine Learning models.
-- 📫 How to reach me: email me at narrativus@proton.me, or @narrativus on twitter.
+- 📫 How to reach me: email me at narrativus@proton.me, DM me at @narrativus on twitter, or check my website narrativus.io
 
 <!---
 narrativus/narrativus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
