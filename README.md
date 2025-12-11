@@ -33,7 +33,8 @@ I’m currently expanding my AI foundations and ML tooling after earning the **A
 <img src="https://github.com/narrativus/narrativus/blob/cf416e34c5e3188cbf12e41089cbfd61678b4148/aws-certified-ai-practitioner.png" 
      alt="AWS Certified AI Practitioner"
      width="140">
-- **AWS Certified AI Practitioner (AIF-C01)**  
+- **AWS Certified AI Practitioner (AIF-C01)**
+     - Validate at: https://aws.amazon.com/verification; Verification code: `d6caf1808e55484eb84ac24ce254d101`
 - BetterWorks OKR Master  
 - Data Storytelling & Visualization (The Economist)
 
