@@ -1,7 +1,7 @@
 # Alejandro Berrizbeitia  
 **Senior Data & Analytics Professional | Revenue Analytics • Forecasting • Attribution • AI Foundations (AWS Certified)**
 
-Hi — I’m Alejandro (@narrativus). I'm a Senior Data Analyst focused on  
+I'm a Senior Data Analyst focused on  
 - Revenue & ARR/MRR forecasting  
 - Marketing & signup attribution  
 - Subscription lifecycle analytics  
@@ -29,7 +29,10 @@ I’m currently expanding my AI foundations and ML tooling after earning the **A
 
 ---
 
-## 🎓 Certifications  
+## 🎓 Certifications
+<img src="https://github.com/narrativus/narrativus/blob/cf416e34c5e3188cbf12e41089cbfd61678b4148/aws-certified-ai-practitioner.png" 
+     alt="AWS Certified AI Practitioner"
+     width="140">
 - **AWS Certified AI Practitioner (AIF-C01)**  
 - BetterWorks OKR Master  
 - Data Storytelling & Visualization (The Economist)
